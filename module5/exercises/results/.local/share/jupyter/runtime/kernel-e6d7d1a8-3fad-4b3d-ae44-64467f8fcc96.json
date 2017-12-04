@@ -1,0 +1,12 @@
+{
+  "hb_port": 51023,
+  "key": "1d24b349-a7e2-421d-93e8-c9451219614c",
+  "transport": "tcp",
+  "shell_port": 60519,
+  "kernel_name": "apache_toree_pyspark",
+  "iopub_port": 39815,
+  "ip": "127.0.0.1",
+  "stdin_port": 44235,
+  "control_port": 54509,
+  "signature_scheme": "hmac-sha256"
+}

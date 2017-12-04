@@ -1,0 +1,11 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "notebook_dir": "/home/hadoop",
+  "password": false,
+  "pid": 11457,
+  "port": 9090,
+  "secure": false,
+  "token": "",
+  "url": "http://localhost:9090/"
+}
